@@ -1,3 +1,5 @@
+
+![](Final_Submission/ScreenShots/1.png)
 # TalentHunt
 
 **TalentHunt** is a web-based recruitment management application designed to streamline job posting, candidate application tracking, and resume shortlisting. It provides a user-friendly interface for recruiters and HR teams to manage the end-to-end hiring process efficiently.
