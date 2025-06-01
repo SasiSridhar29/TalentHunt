@@ -11,7 +11,7 @@
 - View and shortlist resumes
 - rack application status
 - Admin/recruiter login functionality (authentication)
-- ⚙ Backend API support for job and candidate management
+- Backend API support for job and candidate management
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -35,19 +35,21 @@
 
  ### 1. Clone the Repository
 
-git clone https://github.com/SasiSridhar29/TalentHunt.git
+git clone https://github.com/SasiSridhar29/TalentHunt.git  
 cd TalentHunt
 
-## Install Dependencies
+## 2. Install Dependencies
+<pre>
 cd server   
-npm install
-cd talenthunt
-npm install
+npm install  
+cd talenthunt  
+npm install  
+</pre>
 
-## Run the Server
-
+## 3. Run the Server
+<pre>
 npm start
-
+</pre>
 Now, you can access the application at http://localhost:3000
 
 ## Contributing
@@ -56,6 +58,9 @@ If you would like to contribute to the project, feel free to create a pull reque
 
 ## License
 This project is licensed under the MIT License – see the LICENSE file for details.
+
+
+
 
 
 
